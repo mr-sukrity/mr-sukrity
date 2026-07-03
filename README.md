@@ -1,10 +1,9 @@
 # 💫 About Me:
-
+![image alt](https://github.com/mr-sukrity/mr-sukrity/blob/04b35339ff061f0425b85ebfdb81181fdd91ba56/photo%20for%20readme.jpeg)
 # 💫 Hi 👋, I'm Sukrity Roy
-**A  Full Stack Developer**
+**I'm a dedicated Full Stack Developer specializing in the MERN stack, with a passion for building secure, scalable, and user-friendly web applications. I enjoy solving real-world problems, exploring new technologies, and creating digital experiences that make an impact.**
 
 Email Me 👉 ✉️ **sukrityroy2022@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
   
 ## 🌐 Socials:
